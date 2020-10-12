@@ -1,6 +1,9 @@
 ### Hi there 👋
 #### I'm Aydar, passionate software & hardware engineer from Moscow, working usually with Rust & Swift.
-- 🔭 Languages learnt: Rust, Swift, Lua, Python, C++, C#, PHP, AppleScript
-- 🌱 About to learn: Elixir, Ruby, JS
 
-📫 Feel free to reach me on [Telegram](https://t.me/lesterrry) or Discord (lesterrry#8669).
+- 🔭 Familiar with: Rust, Swift, Python + JPN, C++, C#, PHP, Bash
+- 🌱 About to learn: Elixir, Ruby, JS, AppleScript
+
+[![Telegram](https://img.shields.io/badge/Telegram-contact%20me-9cf?style=social&logo=telegram)](https://t.me/lesterrry)
+[![VK](https://img.shields.io/badge/VK-contact%20me-9cf?style=social&logo=vk)](https://vk.com/lesterrry)
+[![Inst](https://img.shields.io/badge/Instagram-contact%20me-9cf?style=social&logo=instagram)](https://vk.com/lesterrry)
