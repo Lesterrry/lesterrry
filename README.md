@@ -6,3 +6,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-contact%20me-9cf?style=social&logo=telegram)](https://t.me/lesterrry)
 [![Inst](https://img.shields.io/badge/Instagram-follow%20me-9cf?style=social&logo=instagram)](https://instagram.com/lesterrry)
+[![Kofi](https://img.shields.io/badge/Ko–fi-support%20me-9cf?style=social&logo=ko-fi)](http://ko-fi.com/lesterrry)
